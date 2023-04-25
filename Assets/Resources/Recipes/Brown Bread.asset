@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1569ca285c70f4d8bdd70563e344ca, type: 3}
+  m_Name: Brown Bread
+  m_EditorClassIdentifier: 
+  type: 0
+  ingredients:
+  - {fileID: 11400000, guid: 235585d8fd55ab74f8f6644cd3fffdd6, type: 2}
+  - {fileID: 11400000, guid: d3ab3e87b77e09546b06e496f8085396, type: 2}
+  - {fileID: 11400000, guid: 0f84eeb793a86124394e363ab17eac9d, type: 2}
+  isComplete: 0

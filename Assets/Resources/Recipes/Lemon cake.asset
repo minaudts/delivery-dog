@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1569ca285c70f4d8bdd70563e344ca, type: 3}
+  m_Name: Lemon cake
+  m_EditorClassIdentifier: 
+  type: 5
+  ingredients:
+  - {fileID: 11400000, guid: 5981c2aaf2793f440af00d442079cc28, type: 2}
+  - {fileID: 11400000, guid: 33b96aff90df3a24988a4ea982cd102f, type: 2}
+  - {fileID: 11400000, guid: c2658853a96391d44ac506eaf7fa8d7a, type: 2}
+  isComplete: 0

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 96cb2822be469e2469fae38b81c0e337
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ruddy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01b443792574b494780b050e28e673eb, type: 3}
+  - {fileID: 12800000, guid: e25be25324ce88c4996e1b53256844f8, type: 3}
+  - {fileID: 12800000, guid: 1288253046045104e94791539e4b5513, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
